@@ -1,0 +1,21 @@
+.register{
+	border: solid aqua;
+	border-radius: 5px;
+	padding: 20px;
+	border-width: 2px;
+	margin-left: 200px;
+	margin-right: 800px;
+}
+#text{
+	padding: 10px;
+	margin: 5px;
+	opacity: 0.8;
+}
+.enter{
+	position: absolute;
+	border: solid aqua;
+	border-radius: 5px;
+	padding: 20px;
+	border-width: 2px;
+	top: 30px;
+	right: 200px
